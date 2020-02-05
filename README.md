@@ -1,0 +1,1 @@
+# Simple-django-CRUD-application---PropertyWala-
